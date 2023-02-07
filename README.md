@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Enuonye Isioma | Email: [enuonyeisioma](mailto:isiomaenuonye@gmail.com) 
+Enuonye Isioma | Email: [isiomaenuonye](mailto:isiomaenuonye@gmail.com) 
 
 Daniel Kissiedu | Email: [danielkissiedu](mailto:iamdanielkissiedu@gmail.com)
